@@ -41,6 +41,8 @@ public class SingtonLazy {
                 }
             }
         }
+        String s = new String();
+
         return SINGTON4;
     }
 }
